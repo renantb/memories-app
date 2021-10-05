@@ -12,3 +12,6 @@ By the end of this video, I had strong understanding of how the MERN Stack works
 
 Setup:
 - run ```npm i && npm start``` or ```yarn start``` for both client and server side to start the app
+
+
+## You can acess the project by this link: https://memoriesapp-1.netlify.app
